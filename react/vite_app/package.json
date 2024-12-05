@@ -1,7 +1,7 @@
 {
   "name": "vite_app",
   "private": true,
-  "homepage": "https://ArjunDivraniya.github.io/react2.0",
+  "homepage": "https://ArjunDivraniya.github.io/react2.0/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
